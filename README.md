@@ -1,2 +1,2 @@
 # e-shop
-基于flask框架的网上商城，实现了微信登陆
+Based on the flask framework of the online store,Implementation WeChat landing Edit
